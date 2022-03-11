@@ -1,14 +1,14 @@
-.menu .menu__lista .menu__item .menu__link {
+.menu__link {
     color: #808080;
     margin-right: 1.25rem;
     text-decoration: none;
     text-transform: lowercase;
 }
-.menu .menu__lista .menu__item .menu__link#activo{
+.menu__link#activo{
     color: #333;
     font-weight: bold;
 }
-.menu .menu__lista .menu__item .menu__link:hover{
+.menu__link:hover{
     text-decoration: underline;
     text-decoration-color: skyblue;
 }
